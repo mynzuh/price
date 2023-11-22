@@ -1,0 +1,6 @@
+﻿  PrjClient.cpp
+C:\Users\gkals\Documents\UOU 3-2\Network\Source\Chapter14\PrjClient\PrjClient.cpp(254,32): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\gkals\Documents\UOU 3-2\Network\Source\Chapter14\PrjClient\PrjClient.cpp(269,3): warning C4996: 'WSAStringToAddressA': Use WSAStringToAddressW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\gkals\Documents\UOU 3-2\Network\Source\Chapter14\PrjClient\PrjClient.cpp(478,2): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+PrjClient.rc(10): fatal error RC1015: cannot open include file 'afxres.h'.
+  

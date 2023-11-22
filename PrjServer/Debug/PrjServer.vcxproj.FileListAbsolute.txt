@@ -1,0 +1,2 @@
+C:\Users\gkals\Documents\UOU 3-2\네트워크소프트웨어개발 - 이현석\Source\Chapter14\PrjServer\Debug\PrjServer.exe
+C:\Users\gkals\Documents\UOU 3-2\Network\TermProject\PrjServer\Debug\PrjServer.exe
